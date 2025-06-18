@@ -1,6 +1,6 @@
 ### Olá Sou Rafael Cristiano Ricetti Dos Santos 👋
 
-<p>- 🔎Estudando React</p>
+<p>- 🔎Estudando ADS</p>
 
 ##
 <div> 
