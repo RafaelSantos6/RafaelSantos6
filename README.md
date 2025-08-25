@@ -1,6 +1,9 @@
 ### Olá Sou Rafael Cristiano Ricetti Dos Santos 👋
 
 <p>- 🔎Estudando ADS</p>
+<p>👨‍💻 Skills</p>
+<p>___________________________________________________________________</p>
+<p>- CSS | C++ | Java</p>
 
 ##
 <div> 
