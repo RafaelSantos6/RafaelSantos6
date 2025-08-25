@@ -1,10 +1,10 @@
 ### Olá Sou Rafael Cristiano Ricetti Dos Santos 👋
 
 <p>- 🔎Estudando ADS</p>
-<p>👨‍💻 Skills</p>
-<p>___________________________________________________________________</p>
+<p>- 👨‍💻 Skills</p>
 <p>- CSS | C++ | Java</p>
-
+<p>-------------------------------------------</p>
+<p>Senac Santa Catarina (Joinville)</p>
 ##
 <div> 
   <a href="https://instagram.com/rafael_cristiano51" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
