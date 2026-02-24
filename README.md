@@ -6,19 +6,23 @@
 <p>-------------------------------------------</p>
 <p>Senac Santa Catarina (Joinville)</p>
 ##
-<div> 
-  <a href="https://instagram.com/rafael_ricetti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-<div>
-  <a href="https://github.com/RafaelSantos6">
- 
-   <a href="https://github.com/RafaelSantos6/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelSantos6&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rafael´s github stats" /></a>
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSantos6&layout=compact&langs_count=7&theme=dracula"/>
-    
-  <img height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
-    
-    
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelSantos6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/RafaelSantos6/RafaelSantos6/output/snake.svg" alt="Snake animation" />
+
+###
     
   
